@@ -1,0 +1,55 @@
+div.cal{
+    border-color: black;
+    border-width: 2px;
+    border-radius: 2px;
+    background-color: orange;
+    width: max-content;
+    height: max-content;
+    border-radius: 10%;
+    border-style: solid;
+    
+}
+
+.operations{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.numpad{
+    padding: 20px;
+    width: max-content;
+}
+
+button{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-family: Helvetica;
+    border-color: lightgray;
+    border-width: 5px;
+    font-size: 20px;
+}
+
+h1{
+    font-family: Helvetica;
+    border-width: 1px;
+    border-color: aliceblue;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.result{
+    width: max-content;
+    background-color: yellow;
+    height: 60px;
+    border-style: solid;
+
+
+}
+
+.other{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    float: left;
+}
