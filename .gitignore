@@ -1,2 +1,1 @@
-# ignore files in other directory
-changing value test/
+changing value test/*
